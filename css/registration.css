@@ -91,26 +91,26 @@
             top:0px;
             left:200px;} 
 
-.cart-end{position:absolute;
+.cart-footer{position:absolute;
        top: 530px;
        left: 0px;
        height: 450px;
        width: 1349px;}
-.edn-h2 {font-weight: bold;}                
-.cart-end ul li{padding-left:90px;}    
-.end-ul-one{position: absolute;
+.footer-h2 {font-weight: bold;}                
+.cart-footer ul li{padding-left:90px;}    
+.footer-ul-one{position: absolute;
               top: 60px;
               left: 0px;}
-.end-ul-two{position: absolute;
+.footer-ul-two{position: absolute;
               top: 60px;
               left: 275px;}
-.end-three{position: absolute;
+.footer-three{position: absolute;
               top: 60px;
               left: 520px;}
-.end-four{position: absolute;
+.footer-four{position: absolute;
               top: 60px;
               left: 800px;}
-.end-five{position: absolute;
+.footer-five{position: absolute;
               top: 60px;
               left: 1015px;}
 .cart-phone{position: absolute;
@@ -124,10 +124,10 @@
            left: 170px;
            width: 250px;
            height: 40px;}
-.end-icon{position: relative;
+.footer-icon{position: relative;
            top: 5px;
            left: 0px;}  
-.end-icon1{position: relative;
+.footer-icon1{position: relative;
            top: 5px;
            left: 0px;} 
 .cart-nav{position:absolute;
@@ -136,13 +136,13 @@
        height: 40px;
        width: 1349px;
        background-color: #363738;}
-.bottom-nav-p{position: absolute;
+.footer-nav-p{position: absolute;
               top: 15px;
               left: 90px;
               width: 50px;
               height: 30px;
               color: #c3cbcc;} 
-.bottom-nav-ban {position: absolute;
+.footer-nav-ban {position: absolute;
               top: 15px;
               left: 645px;
               width: 700px;

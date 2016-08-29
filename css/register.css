@@ -217,58 +217,58 @@
             top:0px;
             left:200px;} 
 
-.register-end{position:absolute;
+.register-footer{position:absolute;
        top: 1270px;
        left: 0px;
        height: 450px;
        width: 1349px;}
-.edn-h2 {font-weight: bold;}                
-.register-end ul li{padding-left:90px;}    
-.end-ul-one{position: absolute;
+.footer-h2 {font-weight: bold;}                
+.register-footer ul li{padding-left:90px;}    
+.footer-ul-one{position: absolute;
               top: 60px;
               left: 0px;}
-.end-ul-two{position: absolute;
+.footer-ul-two{position: absolute;
               top: 60px;
               left: 275px;}
-.end-three{position: absolute;
+.footer-three{position: absolute;
               top: 60px;
               left: 520px;}
-.end-four{position: absolute;
+.footer-four{position: absolute;
               top: 60px;
               left: 800px;}
-.end-five{position: absolute;
+.footer-five{position: absolute;
               top: 60px;
               left: 1015px;}
-.end-phone{position: absolute;
+.footer-phone{position: absolute;
            top: 1540px;
            left: 100px;
            width: 142px;
            height: 62px;} 
 .phone-h3{color:#0286cd;}
-.end-zhi{position: absolute;
+.footer-zhi{position: absolute;
            top: 1680px;
            left: 170px;
            width: 250px;
            height: 40px;}
-.end-icon{position: relative;
+.footer-icon{position: relative;
            top: 5px;
            left: 0px;}  
-.end-icon1{position: relative;
+.footer-icon1{position: relative;
            top: 5px;
            left: 0px;} 
-.bottom-nav{position:absolute;
+.footer-nav{position:absolute;
        top: 1720px;
        left: 0px;
        height: 40px;
        width: 1349px;
        background-color: #363738;}
-.bottom-nav-p{position: absolute;
+.footer-nav-p{position: absolute;
               top: 15px;
               left: 90px;
               width: 50px;
               height: 30px;
               color: #c3cbcc;} 
-.bottom-nav-ban {position: absolute;
+.footer-nav-ban {position: absolute;
               top: 15px;
               left: 645px;
               width: 700px;
