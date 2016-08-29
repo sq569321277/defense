@@ -1,0 +1,298 @@
+.img{max-width:100%;max-height:100%}
+.pic{width:1349px;
+     height: 830px;
+     margin-top: 0px;
+     margin-left: 0px;
+     background: url(../img/1920-830-NEO.jpg);
+}
+
+.banner-one{position: absolute;
+         top: 615px;
+         left: 205px;
+         width: 468px;
+         height: 353px;
+        
+         }
+.banner-one:hover{
+	box-shadow:0 0 15px rgba(2,2,2,.2);
+	transition: all 0.1s ease 0s;
+}
+.banner-two:hover{
+	box-shadow:0 0 15px rgba(2,2,2,.2);
+	transition: all 0.1s ease 0s;}
+.banner-three:hover{
+	box-shadow:0 0 15px rgba(2,2,2,.2);
+	transition: all 0.1s ease 0s;}
+.banner-four:hover{
+	box-shadow:0 0 15px rgba(2,2,2,.2);
+	transition: all 0.1s ease 0s;
+}
+.banner-two{position: absolute;
+         top: 615px;
+         left: 685px;
+         width: 468px;
+         height: 353px;
+         
+         }
+         
+.text-lin{position: absolute;
+         top: 260px;
+         left:185px;
+         text-align: center;}
+.text-tan{position: absolute;
+         top: 300px;
+         left:125px;
+         text-align: center;
+         color: #2783fe;}
+.text-ts{position: absolute;
+         top: 300px;
+         left:150px;
+         text-align: center;
+         color: #2783fe;}
+         
+.banner-three{position: absolute;
+         top: 1000px;
+         left: 205px;
+         width: 468px;
+         height: 353px; 
+         }
+         
+.banner-four{position: absolute;
+         top: 1000px;
+         left: 685px;
+         width: 468px;
+         height: 353px; 
+         }
+         
+.h1{position: absolute;
+     top: 1405px;
+     left: 542px;}
+     
+.football{position: absolute;
+          top:1455px;
+          left: 200px;
+          width:475px;
+          height: 477px;
+          overflow: hidden;}
+.football-nav{position: absolute;
+          top:0px;
+          left: 20px;
+          width:160px;
+          height: 477px;
+          background:#aba32e;
+          background: rgba(171,163,46,0.7);
+          }
+.football-nav p{font: normal bold 20px "微软雅黑";
+                color:#fff;
+                position:relative;
+                top: 400px;
+                left: 40px;}  
+    
+.running {position: absolute;
+          top:1455px;
+          left: 678px;
+          width:479px;
+          height: 234px;
+          overflow: hidden;
+     } 
+.running-nav{position: absolute;
+          top:0px;
+          left: 20px;
+          width:160px;
+          height: 234px;
+          background:#65a872;
+          background: rgba(101,168,114,0.7);
+          } 
+.running-nav p{font: normal bold 20px "微软雅黑";
+                color:#fff;
+                position:relative;
+                top: 160px;
+                left: 40px;}    
+        
+.ball {position: absolute;
+          top:1695px;
+          left: 678px;
+          width:479px;
+          height: 234px;
+          overflow: hidden;
+        }
+.ball-nav{position: absolute;
+          top:0px;
+          left: 310px;
+          width:160px;
+          height: 234px;
+          background:#214e73;
+          background: rgba(33,78,115,0.7);
+          } 
+.ball-nav p{font: normal bold 20px "微软雅黑";
+                color:#fff;
+                position:relative;
+                top: 160px;
+                left: 40px;}   
+        
+.tarin{position: absolute;
+          top:1935px;
+          left: 200px;
+          width:318px;
+          height: 220px;
+          overflow: hidden;
+        }
+.tarin-nav{position: absolute;
+          top:0px;
+          left: 170px;
+          width:130px;
+          height: 220px;
+          background:#174b53;
+          background: rgba(23,75,83,0.7);
+          } 
+.tarin-nav p{font: normal bold 20px "微软雅黑";
+                color:#fff;
+                position:relative;
+                top: 140px;
+                left: 25px;} 
+        
+.outdoor{position: absolute;
+          top:1935px;
+          left: 529px;
+          width:318px;
+          height: 220px;
+          overflow: hidden;
+        }
+.outdoor-nav{position: absolute;
+          top:0px;
+          left: 160px;
+          width:130px;
+          height: 220px;
+          background:#9aa7c0;
+          background: rgba(154,167,192,0.7);
+          } 
+.outdoor-nav p{font: normal bold 20px "微软雅黑";
+                color:#fff;
+                position:relative;
+                top: 140px;
+                left: 25px;} 
+        
+.tennis{position: absolute;
+          top:1935px;
+          left: 836px;
+          width:321px;
+          height: 220px;
+          overflow: hidden;
+        }
+.tennis-nav{position: absolute;
+          top:0px;
+          left: 160px;
+          width:130px;
+          height: 220px;
+          background:#4a415f;
+          background: rgba(74,65,95,0.7);
+          } 
+.tennis-nav p{font: normal bold 20px "微软雅黑";
+                color:#fff;
+                position:relative;
+                top: 140px;
+                left: 25px;} 
+ 
+ 
+ 
+                
+.wei{position: absolute;
+     top: 2260px;
+     left: 0px;
+     width: 1349px;
+     height: 70px;
+     background-color: #000000;}
+.wei-one{position: absolute;
+          top: 25px;
+          left: 160px;
+          width: 42px;
+          height: 37px;
+          background: url(../img/weibo.png);} 
+.wei-one:hover ul{display:block;}
+.wei-one ul{display:none;
+	       position: absolute;
+            top: -115px;
+            left:-160px;
+            width: 1349px;
+            height: 70px;
+            background-color: #363738;}
+.wei-one ul li{
+	        position: absolute;
+            top:0px;
+            left:80px;}                      
+.wei-two{position: absolute;
+          top: 28px;
+          left: 200px;
+          width: 42px;
+          height: 37px;
+          background: url(../img/weixin.png);} 
+.wei-two:hover ul{display:block;}
+.wei-two ul{display:none;
+	        position: absolute;
+            top: -118px;
+            left:-200px;
+            width: 1349px;
+            height: 70px;
+            background-color: #363738;}
+.wei-two ul li{
+	        position: absolute;
+            top:0px;
+            left:200px;} 
+
+.end{position:absolute;
+       top: 2330px;
+       left: 0px;
+       height: 450px;
+       width: 1349px;}
+.edn-h2 {font-weight: bold;}                
+.end ul li{padding-left:90px;}    
+.end-ul-one{position: absolute;
+              top: 60px;
+              left: 0px;}
+.end-ul-two{position: absolute;
+              top: 60px;
+              left: 275px;}
+.end-three{position: absolute;
+              top: 60px;
+              left: 520px;}
+.end-four{position: absolute;
+              top: 60px;
+              left: 800px;}
+.end-five{position: absolute;
+              top: 60px;
+              left: 1015px;}
+.end-phone{position: absolute;
+           top: 240px;
+           left: 100px;
+           width: 142px;
+           height: 62px;} 
+.phone-h3{color:#0286cd;}
+.end-zhi{position: absolute;
+           top: 400px;
+           left: 170px;
+           width: 250px;
+           height: 40px;}
+.end-icon{position: relative;
+           top: 5px;
+           left: 0px;}  
+.end-icon1{position: relative;
+           top: 5px;
+           left: 0px;} 
+.bottom-nav{position:absolute;
+       top: 450px;
+       left: 0px;
+       height: 40px;
+       width: 1349px;
+       background-color: #363738;}
+.bottom-nav-p{position: absolute;
+              top: 15px;
+              left: 90px;
+              width: 50px;
+              height: 30px;
+              color: #c3cbcc;} 
+.bottom-nav-ban {position: absolute;
+              top: 15px;
+              left: 645px;
+              width: 700px;
+              height: 30px;
+              color: #c3cbcc;}         

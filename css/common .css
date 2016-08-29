@@ -1,0 +1,549 @@
+﻿@charset "utf-8";
+body, div, dl, dt, dd,ul,ol,li,h1,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquoteth,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+body,html{height:100%;font:"宋体B8B\4F53",sans- serif; color:#333; font-size:12px;}
+h4,h6{color: #808;}
+h2{font-weight: normal;}
+.checkbox-size{width: 30px;height: 30px;}
+.content{height: 100%;width: 100%;}
+ .avatar:hover img {
+    transform: scale(1.1);
+    transition:5s;                
+    }  
+.title{width: 1349px;
+       height: 80px;
+       margin-top: 0px;
+       margin-left: 0px;
+       background-color: #000;
+       }
+ 
+.title a{text-decoration:none;
+color:white;
+font-size:18px;
+}
+
+.title-logo{width: 102px;
+            height: 72px;
+            margin-top: 5px;
+            margin-left: 200px;}
+
+
+
+.sou{width: 117px;
+      height: 35px;
+      margin-top: -40px;
+      margin-left: 940px;
+      background-color: #fff;
+      font-size: 16px;
+      font-weight: bold;
+      }
+
+.sou:hover{background-color: blue;
+           color: #FFFFFF;
+           }
+          
+.main{width: 850px;
+         height: 50px;
+           margin-top: -60px;
+         margin-left: 400px;
+           }
+
+
+
+.pic{width:1349px;
+     height: 830px;
+     margin-top: 0px;
+     margin-left: 0px;
+     background: url(../img/1920-830-NEO.jpg);
+}
+
+.nav{background-color:#000;
+width: 435px;
+height: 40px;
+position: absolute;
+margin-top: -50px;
+margin-left: 440px;}
+ 
+.nav a{text-decoration:none;
+font-size:18px;
+}
+ul{list-style:none;
+  padding:10px;
+  display:inline-block;
+  }
+ul li{padding: 10px;
+      display: inline-block;}
+ul li:hover ul{display:block;background-color:#fff;}
+.new{display:none;
+          position:absolute;
+          top: 45px;
+          left: -441px;
+          width:1349px;
+          height: 455px;
+          text-align: center;
+          background-color:#fff;
+          z-index: 1;
+          }
+       
+.xin{position:absolute;
+          top: 45px;
+          left: -141px;
+          width: 350px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+        
+         }
+         
+.text-xin{position: absolute;
+           top: 0px;
+           left: 105px;
+           font-size: 14px;}
+         
+ .top{position: absolute;
+         top:30px;
+         left: 113px;
+         width:40px;
+         background-color: #808080;}
+          
+.custom{padding-top: 37px;
+        padding-left:30px;
+        font-size: 14px;}
+        
+.center{position: absolute;
+         top:130px;
+         left: 113px;
+         width:40px;
+         background-color: #808080;}        
+.text-custom{position: absolute;
+           top: 130px;
+           left: 105px;
+           font-size: 14px;}
+.text-neo{position: absolute;
+           top: 155px;
+           left: 105px;
+           font-size: 14px;}
+           
+.text-united{position: absolute;
+           top: 180px;
+           left: 105px;
+           font-size: 14px;}
+.text-rose{position: absolute;
+           top: 205px;
+           left: 105px;
+           font-size: 14px;}
+.topmi{position: absolute;
+         top:230px;
+         left: 113px;
+         width:40px;
+         background-color: #808080;} 
+.text-mi{position: absolute;
+           top: 230px;
+           left: 105px;
+           font-size: 14px;}
+.bottom{position: absolute;
+         top:260px;
+         left: 113px;
+         width:40px;
+         background-color: #808080;} 
+         
+.text-zhekou{position: absolute;
+           top: 270px;
+           left: 105px;
+           color: red;
+           font-size: 14px;}
+           
+.hr-man{position: absolute;
+         top:365px;
+         left: 113px;
+         width:180px;
+         background-color: #808080;}
+.text-man{position: absolute;
+           top: 370px;
+           left: 105px;
+           font:normal bold 14px "微软雅黑";}
+           
+.shoes{position:absolute;
+          top: 45px;
+          left: 0px;
+          width: 100px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+          }
+.text-shoes{position: absolute;
+           top: 370px;
+           left: -10px;
+           font:normal bold 14px "微软雅黑";}
+.hr-shoes{position: absolute;
+         top:365px;
+         left: 0px;
+         width: 100px;
+         background-color: #808080;}
+         
+.wardrobe{position:absolute;
+          top: 45px;
+          left: 0px;
+          width: 100px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+          }
+.hr-wardrobe{position: absolute;
+         top:365px;
+         left: 0px;
+         width: 100px;
+         background-color: #808080;}
+         
+.text-wardrobe{position: absolute;
+           top: 370px;
+           left: -10px;
+           font:normal bold 14px "微软雅黑";}
+           
+.pei{position:absolute;
+          top: 45px;
+          left: 0px;
+          width: 165px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+          }
+          
+.hr-pei{position: absolute;
+         top:365px;
+         left: 0px;
+         width: 150px;
+         background-color: #808080;}
+         
+.text-pei{position: absolute;
+           top: 370px;
+           left: -10px;
+           font:normal bold 14px "微软雅黑";}
+           
+.sport{position:absolute;
+          top: 45px;
+          left: 0px;
+          width: 65px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+          }
+          
+.new-li {position: absolute;
+width: 80px;
+height: 30px;
+	top: 0px;
+	left: 200px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+
+.shoes-li {position: absolute;
+   width: 80px;
+   height: 30px;
+	top: 0px;
+	left: 425px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+.wardrobe-li {position: absolute;
+   width: 80px;
+   height: 30px;
+	top: 0px;
+	left: 620px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+          
+.pei-li {position: absolute;
+   width: 80px;
+   height: 30px;
+	top: 0px;
+	left: 830px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+          
+.sport-li {position: absolute;
+    width: 105px;
+    height: 30px;
+	top: 0px;
+	left: 1030px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+ 
+ .basketball{display:none;
+          position:absolute;
+          top: 45px;
+          left: -441px;
+          width:1349px;
+          height: 455px;
+          z-index: 1;
+         }
+          
+.basketball-li {display:inline-block;
+position: absolute;
+top: 0px;
+}
+
+.yun{position:absolute;
+          top: 45px;
+          left: -50px;
+          width: 175px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+         }   
+.sol{position: absolute;
+     top: 25px;
+     left: 0px;}   
+     
+.text-sol{position: absolute;
+     top: 110px;
+     left: 45px;} 
+.sol-hr{position: absolute;
+         top: 370px;
+         left: 0px;
+         width: 175px;} 
+.text-sol-bottom{position: absolute;
+     top: 374px;
+     left: 37px;
+     font-weight:bold;} 
+     
+.pao{position:absolute;
+          top: 45px;
+          left: -30px;
+          width: 175px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+        }
+        
+.lan{position:absolute;
+          top: 45px;
+          left: -30px;
+          width: 175px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+        } 
+        
+.lian{position:absolute;
+          top: 45px;
+          left: -30px;
+          width: 175px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+        }          
+        
+.qtcp{position:absolute;
+          top: 45px;
+          left: -30px;
+          width: 175px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+        }
+        
+.ori-li {position: absolute;
+width: 80px;
+height: 30px;
+	top: 0px;
+	left: 200px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+
+.neo-li {position: absolute;
+   width: 80px;
+   height: 30px;
+	top: 0px;
+	left: 425px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+.ste-li {position: absolute;
+   width: 80px;
+   height: 30px;
+	top: 0px;
+	left: 670px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+          
+.jing-li {position: absolute;
+   width: 80px;
+   height: 30px;
+	top: 0px;
+	left: 1000px;
+	display:inline-block;
+     font: normal bold 20px "微软雅黑";
+     float: left;
+          }
+ .ori-logo{position: absolute;
+           top: 15px;
+           left: -80px;}         
+          
+ .neo-logo{position: absolute;
+           top: 15px;
+           left: -60px;}           
+ .ste-logo{position: absolute;
+           top: 15px;
+           left: -60px;}         
+.text-jing{position: absolute;
+           top: 20px;
+           left:20px;
+           }
+           
+.jing-pic{position: absolute;
+          top: 140px;
+          left: 25px;}
+           
+.hot{position:absolute;
+          top: 45px;
+          left: -30px;
+          width: 215px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;
+        }  
+.text-hot{position: absolute;
+     top: 374px;
+     left: 10px;
+     font-weight:bold;} 
+.hot-hr{position: absolute;
+         top: 370px;
+         left: 0px;
+         width: 215px;}   
+.miadidas{position:absolute;
+          top: 45px;
+          left: -30px;
+          width: 374px;
+          height: 403px;
+          display: block;
+          float: left;
+          font-size: 14px;
+          font-weight: normal;
+          text-align: center;}
+.miadidas-hr{position: absolute;
+         top: 370px;
+         left: -50px;
+         width:350px;}          
+.miadidas-pic{position: absolute;
+              top: 100px;
+              left: -55px;} 
+              
+.land{background-color:#000;
+      width: 48px;
+      height: 30px;
+      position: absolute;
+      top: 45px;
+      left: 1080px;} 
+      
+.land1{list-style:none;
+  display:block;}
+.land-pic{position: absolute;
+         top: 0px;
+         left: 0px;}
+         
+.land1 li ul{display:none;
+          position:absolute;
+          top: 30px;
+          left: -140px;
+          width:205px;
+          height: 100px;
+           z-index: 1;}
+.land-hr{position: absolute;
+top: 27px;
+left: -10px;
+width: 110px;
+color: #808080;}         
+.land-text{position: absolute;
+          top: 3px;
+          left: 55px;
+          font:normal 18px "微软雅黑";
+          color:#808080;	}
+.color{position: absolute;
+       top: 2px;
+       left: 20px;
+       width: 50px;
+       height: 30px;
+	font:normal 18px "微软雅黑";
+          color:#808080;
+          }
+.color-hu{position: absolute;
+       top: 55px;
+       left: 10px;
+       width: 90px;
+       height: 25px;
+	font:normal 18px "微软雅黑";
+          color:#808080}
+.land-gou{background-color:#000;
+      width: 48px;
+      height: 30px;
+      position: absolute;
+      top: 45px;
+      left: 1150px;} 
+      
+.land2{list-style:none;
+  display:block;}
+.land2-pic{position: absolute;
+         top: 0px;
+         left: 0px;}
+         
+.land2 li ul{display:none;
+          position:absolute;
+          top: 30px;
+          left: -10px;
+          width:205px;
+          height: 80px;
+           z-index: 1;}
+          
+          
+          
+          
+          
+
