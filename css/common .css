@@ -10,19 +10,19 @@ h2{font-weight: normal;}
     transform: scale(1.1);
     transition:5s;                
     }  
-.title{width: 1349px;
+.tit{width: 1349px;
        height: 80px;
        margin-top: 0px;
        margin-left: 0px;
        background-color: #000;
        }
  
-.title a{text-decoration:none;
+.tit a{text-decoration:none;
 color:white;
 font-size:18px;
 }
 
-.title-logo{width: 102px;
+.tit-logo{width: 102px;
             height: 72px;
             margin-top: 5px;
             margin-left: 200px;}
